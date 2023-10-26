@@ -26,7 +26,7 @@ document.getElementById('buttonNao').addEventListener('click', function() {
 
 document.getElementById('buttonSim').addEventListener('click', function() {
     // Redirecionar para o link do WhatsApp
-    window.location.href = 'https://api.whatsapp.com/send?phone=35998372360&text=Ola,%20estou%20interessada';
+    window.location.href = 'https://api.whatsapp.com/send?phone=35998372360&text=Ola,Bia aqui%20estou%20interessada';
 });
 
 // Função para verificar sobreposição de retângulos
